@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPTemelKavramlar", "OOPTemelKavramlar\OOPTemelKavramlar.csproj", "{9AA0D66A-CE1E-4379-946E-DF70224FCA24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{9262242C-B3D5-405E-96DB-BB101D8410C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9AA0D66A-CE1E-4379-946E-DF70224FCA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AA0D66A-CE1E-4379-946E-DF70224FCA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AA0D66A-CE1E-4379-946E-DF70224FCA24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9262242C-B3D5-405E-96DB-BB101D8410C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9262242C-B3D5-405E-96DB-BB101D8410C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9262242C-B3D5-405E-96DB-BB101D8410C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9262242C-B3D5-405E-96DB-BB101D8410C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
