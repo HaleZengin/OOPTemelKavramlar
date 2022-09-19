@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             /*
-             *   Analog Kol saati...
+             
              * Yeniden kullanılabilirlik..... (Reusability)
              * Genişletilebilirlik (Extensibility)
              * Bakımı yapılabilir (Maintability).
