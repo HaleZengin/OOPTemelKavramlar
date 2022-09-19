@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\bin\Debug\net6.0\OOPTemelKavramlar.exe
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\bin\Debug\net6.0\OOPTemelKavramlar.deps.json
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\bin\Debug\net6.0\OOPTemelKavramlar.runtimeconfig.json
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\bin\Debug\net6.0\OOPTemelKavramlar.dll
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\bin\Debug\net6.0\OOPTemelKavramlar.pdb
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\obj\Debug\net6.0\OOPTemelKavramlar.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\obj\Debug\net6.0\OOPTemelKavramlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\obj\Debug\net6.0\OOPTemelKavramlar.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\obj\Debug\net6.0\OOPTemelKavramlar.AssemblyInfo.cs
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\obj\Debug\net6.0\OOPTemelKavramlar.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\obj\Debug\net6.0\OOPTemelKavramlar.dll
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\obj\Debug\net6.0\refint\OOPTemelKavramlar.dll
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\obj\Debug\net6.0\OOPTemelKavramlar.pdb
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\obj\Debug\net6.0\OOPTemelKavramlar.genruntimeconfig.cache
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\OOPTemelKavramlar\obj\Debug\net6.0\ref\OOPTemelKavramlar.dll
