@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\bin\Debug\net6.0\Encupsulation.exe
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\bin\Debug\net6.0\Encupsulation.deps.json
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\bin\Debug\net6.0\Encupsulation.runtimeconfig.json
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\bin\Debug\net6.0\Encupsulation.dll
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\bin\Debug\net6.0\Encupsulation.pdb
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\obj\Debug\net6.0\Encupsulation.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\obj\Debug\net6.0\Encupsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\obj\Debug\net6.0\Encupsulation.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\obj\Debug\net6.0\Encupsulation.AssemblyInfo.cs
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\obj\Debug\net6.0\Encupsulation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\obj\Debug\net6.0\Encupsulation.dll
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\obj\Debug\net6.0\refint\Encupsulation.dll
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\obj\Debug\net6.0\Encupsulation.pdb
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\obj\Debug\net6.0\Encupsulation.genruntimeconfig.cache
+C:\Users\Asus\source\repos\OOPTemelKavramlar\ObjeAndClass\Encupsulation\obj\Debug\net6.0\ref\Encupsulation.dll
