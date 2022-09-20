@@ -56,6 +56,16 @@ namespace Abstraction
             }
 
         }
+
+        public class DataSourceWriter
+        {
+
+            public void WriteData(string data, DataSource dataSource)
+            {
+                dataSource.GetConfig();
+                dataSource.Write(data);
+            }
+        }
     }
 }
 
